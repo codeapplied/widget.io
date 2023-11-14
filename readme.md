@@ -1,3 +1,5 @@
-<div style="width: 100%;">
-  <img src="checktat.svg" style="width: 100%;" alt="Click to see the source">
+<div align="center">
+ <a class="link" href="https://github.com/codeflowjs/codeflowjs/blame/main/header.svg">
+  <img class="image" src="header.svg" alt="Click to see the source">
+ </a>
 </div>
